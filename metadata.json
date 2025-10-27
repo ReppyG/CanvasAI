@@ -1,0 +1,7 @@
+{
+  "name": "Canvas Pro - AI Study Assistant",
+  "description": "An AI-powered student platform to manage courses, assignments, and supercharge learning with integrated study tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
